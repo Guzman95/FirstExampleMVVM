@@ -1,0 +1,25 @@
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\Excercise  mvvm.exe
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\Excercise  mvvm.deps.json
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\Excercise  mvvm.runtimeconfig.json
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\Excercise  mvvm.runtimeconfig.dev.json
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\Excercise  mvvm.dll
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\ref\Excercise  mvvm.dll
+C:\Users\santi\source\repos\Excercise  mvvm\bin\Debug\net5.0-windows\Excercise  mvvm.pdb
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Views\PersonaViewer.g.cs
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm_MarkupCompile.cache
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm_MarkupCompile.lref
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Views\PersonaViewer.baml
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.g.resources
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.AssemblyInfo.cs
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.dll
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\ref\Excercise  mvvm.dll
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.pdb
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\Excercise  mvvm.genruntimeconfig.cache
+C:\Users\santi\source\repos\Excercise  mvvm\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
